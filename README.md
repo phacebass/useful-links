@@ -38,6 +38,8 @@ https://www.reddit.com/r/javascript/
 
 https://github.com/uhub/awesome-javascript
 
+[Nojejs: Fastify.js an alternative to express.js ](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
+
 ## Learning Resources
 
 http://developers.redhat.com/
