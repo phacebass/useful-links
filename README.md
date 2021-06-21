@@ -14,6 +14,14 @@ https://daily.dev/blog
 
 https://codeburst.io/
 
+### Docker
+
+https://www.freecodecamp.org/news/the-docker-handbook/#docker-container-manipulation-basics
+
+### Git
+
+https://git-scm.com/docs/git-notes
+
 ### Java
 
 https://www.reddit.com/r/java/
